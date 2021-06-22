@@ -1,7 +1,7 @@
 {
   "name": "a-beach-day",
   "version": "0.1.0",
-  "homepage": "apprehensive-fig.github.io/a-beach-day",
+  "homepage": "http://apprehensive-fig.github.io/a-beach-day",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -40,6 +40,19 @@
     ]
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
     "gh-pages": "^3.2.3"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apprehensive-fig/a-beach-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apprehensive-fig/a-beach-day/issues"
   }
 }
