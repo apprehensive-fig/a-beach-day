@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a-beach-day/static/css/main.b8870f5e.chunk.css",
+    "main.js": "/a-beach-day/static/js/main.b3e5d24d.chunk.js",
+    "main.js.map": "/a-beach-day/static/js/main.b3e5d24d.chunk.js.map",
+    "runtime-main.js": "/a-beach-day/static/js/runtime-main.c5562eb6.js",
+    "runtime-main.js.map": "/a-beach-day/static/js/runtime-main.c5562eb6.js.map",
+    "static/js/2.cd9fb3bd.chunk.js": "/a-beach-day/static/js/2.cd9fb3bd.chunk.js",
+    "static/js/2.cd9fb3bd.chunk.js.map": "/a-beach-day/static/js/2.cd9fb3bd.chunk.js.map",
+    "static/js/3.788ff7d8.chunk.js": "/a-beach-day/static/js/3.788ff7d8.chunk.js",
+    "static/js/3.788ff7d8.chunk.js.map": "/a-beach-day/static/js/3.788ff7d8.chunk.js.map",
+    "index.html": "/a-beach-day/index.html",
+    "static/css/main.b8870f5e.chunk.css.map": "/a-beach-day/static/css/main.b8870f5e.chunk.css.map",
+    "static/js/2.cd9fb3bd.chunk.js.LICENSE.txt": "/a-beach-day/static/js/2.cd9fb3bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5562eb6.js",
+    "static/js/2.cd9fb3bd.chunk.js",
+    "static/css/main.b8870f5e.chunk.css",
+    "static/js/main.b3e5d24d.chunk.js"
+  ]
+}
